@@ -1,0 +1,1 @@
+These scripts utilize OpenAI's API. In order to test and use these scripts. You will need to plug in your private API key.
